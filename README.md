@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Carpintería .
+- 🔭 I’m currently working on Student.
 - 🌱 I’m currently learning Astro.
 - 👯 I’m looking to collaborate on collaborate.
 - 🤔 I’m looking for help with hel with Next.js.
