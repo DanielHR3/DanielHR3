@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-**DanielHR3/DanielHR3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Student.
-- 🌱 I’m currently learning Astro.
-- 👯 I’m looking to collaborate on collaborate.
-- 🤔 I’m looking for help with hel with Next.js.
-- 💬 Ask me about my favorites programming languaje .
-- 📫 How to reach me: DanielHRubio.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: ride a bike.
+🔭 Actualmente estoy trabajando como auxiliar de ERP Odoo.
+🌱 Actualmente estoy aprendiendo Astro.
+👯 Estoy buscando colaborar en proyectos colaborativos.
+🤔 Estoy buscando ayuda con Next.js.
+💬 Pregúntame sobre mis lenguajes de programación favoritos.
+📫 Cómo contactarme: danielhrubio3@gmail.com.
+😄 Pronombres: Él.
+⚡ Dato curioso: Me gusta montar bicicleta en la montaña.
+📖  Además, estoy estudiando Python en Udemy.
