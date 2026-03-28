@@ -20,7 +20,6 @@ Uniendo la precisión técnica del desarrollo con la creatividad estratégica de
 | **DevOps & Tools** | GitHub, Docker |
 
 ### 🌟 Proyectos Recientes
-- **📦 Conexión API IntegraMed:** Automatización y gestión de facturación mediante integraciones robustas.
 - **📱 MyFirstApp:** Exploración nativa en Android utilizando Kotlin.
 
 ---
